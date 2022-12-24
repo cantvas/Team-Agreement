@@ -10,7 +10,7 @@
 
 ## Software Requirements
 
-[Software Requirements](Software_Requirements.md)
+[Software Requirements](SoftwareRequirements.md)
 
 ## Domain Model
 
